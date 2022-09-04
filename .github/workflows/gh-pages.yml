@@ -3,7 +3,7 @@ name: Deploy Hugo Site to Github Pages on Main Branch
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - master  # Set a branch to deploy
   pull_request:
 
 jobs:
