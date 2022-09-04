@@ -1,0 +1,12 @@
+/*
+!.github/
+!archetypes/
+!assets/
+!content/
+!layouts/
+!static/
+!themes/
+!.gitignore
+!.gitmodules
+!config.yml
+!README.md
