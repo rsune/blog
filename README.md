@@ -1,2 +1,1 @@
-# blog
-Personal Blog
+  Personal blog, made with Hugo & PaperMod.
