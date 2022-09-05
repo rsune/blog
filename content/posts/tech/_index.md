@@ -1,5 +1,6 @@
 ---
-title: "技术"
+title: "Notes"
 hidemeta: true
+weight: 2
 ---
 

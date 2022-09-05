@@ -1,25 +1,24 @@
 ---
-title: "Windows10环境下安装JDK11" #标题
-date: 2022-02-25T16:49:00+08:00 #创建时间
-lastmod: 2022-09-04T17:22:26+08:00 #更新时间
-author: ["Sunrise"] #作者
+title: "Install JDK11 on Windows10 Platform" 
+date: 2022-02-25T16:49:00+08:00
+lastmod: 2022-09-04T17:22:26+08:00
 categories: 
-- "教程"
+- "Tutorial"
 tags: 
 - "Java"
-description: "" #描述
-weight: 1# 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+description: ""
+weight:
 slug: ""
-draft: false # 是否为草稿
-comments: true #是否展示评论
-showToc: true # 显示目录
-TocOpen: true # 自动展开目录
-hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
-disableShare: false # 底部不显示分享栏
-showbreadcrumbs: true #顶部显示当前路径
+draft: false
+comments: true
+showToc: true
+TocOpen: true
+hidemeta: false
+disableShare: false
+showbreadcrumbs: true
 cover:
-  image: "/posts/tech/win10_install_jdk11/cover.png" #封面路径
-  caption: "" #图片底部描述
+  image: "/posts/tech/win10_install_jdk11/cover.png"
+  caption: ""
   alt: ""
   relative: false
 ---

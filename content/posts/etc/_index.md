@@ -1,5 +1,6 @@
 ---
-title: "其他"
+title: "Etc"
 hidemeta: true
+weight: 5
 ---
 

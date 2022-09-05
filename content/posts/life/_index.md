@@ -1,5 +1,6 @@
 ---
-title: "生活"
+title: "Life"
 hidemeta: true
+weight: 3
 ---
 

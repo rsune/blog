@@ -12,9 +12,7 @@ disableShare: true
 showbreadcrumbs: false
 ---
 
-### 关于我
-
-​    一个平淡无奇的大学生，但在努力变得更好！
+​	 	An undergraduate majoring in software enginnering.
 
 ![ThinkBoy](/ThinkBoy.jpg)
 
