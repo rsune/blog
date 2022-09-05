@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Sunrise&#39;s Blog</title>
-    <link>https://www.rsune.cn/categories/</link>
-    <description>Recent content in Categories on Sunrise&#39;s Blog</description>
+    <title>Categories on Rsune&#39;s Blog</title>
+    <link>https://www.sunrisezen.top/categories/</link>
+    <description>Recent content in Categories on Rsune&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>en-us</language>
     <copyright>© Rsune 2022-2022 All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Feb 2022 16:49:00 +0800</lastBuildDate><atom:link href="https://www.rsune.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 16:49:00 +0800</lastBuildDate><atom:link href="https://www.sunrisezen.top/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>教程</title>
-      <link>https://www.rsune.cn/categories/%E6%95%99%E7%A8%8B/</link>
+      <title>Tutorial</title>
+      <link>https://www.sunrisezen.top/categories/tutorial/</link>
       <pubDate>Fri, 25 Feb 2022 16:49:00 +0800</pubDate>
       
-      <guid>https://www.rsune.cn/categories/%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://www.sunrisezen.top/categories/tutorial/</guid>
       <description></description>
     </item>
     
